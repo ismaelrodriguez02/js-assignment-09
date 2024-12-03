@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: burlywood;
+}
+
+#title {
+    margin-top: 225px;
+}
+
+#button {
+    background-color: blue;
+    color: white;
+}
